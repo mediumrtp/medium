@@ -1,0 +1,105 @@
+.container-header{
+    background-color: #ff0033;
+    width: 100%;
+}
+.row-red-header{
+    padding: 1%;
+}
+.col-sm-4-adress{
+    color: white;
+    margin-left: 30%;
+}
+.col-sm-4-telephone{
+    color: white;
+    margin-left: -20%;
+}
+.col-sm-4-email{
+    color: white;
+    margin-left: -20%;
+}
+.col-sm-6-header a{
+    color: white;
+}
+.col-sm-3-headernextevent{
+    color: white;
+    margin-left: 2%;
+}
+.col-sm-3-headerpage1{
+    margin-left: -10%;
+}
+.col-sm-3-headerpage2{
+    margin-left: -10%;
+}
+.col-sm-3-headerpage3{
+    margin-left: -10%;
+}
+.col-sm-6-logoimg{
+    margin-left: -15%;
+    padding-top: 2%;
+}
+.col-sm-6-logomedium{
+    margin-left: -40%;
+    padding-top: 5%;
+}
+.col-sm-12-header {
+    margin-left: -15%;
+    margin-top: -1%;
+}
+.row-header{
+    padding-top: 10%;
+    margin-left: 10%;
+    margin-right: -9%;
+    color: white;
+}
+.col-sm-4 a{
+    color: #4f5050;
+}
+.container-img{
+    background-image: url("../img/arrow.jpeg");
+    padding-top: 30%;
+    margin-top: 3%;
+    width: 100%;
+    height: 20%;
+}
+.row-arrow h3{
+    text-align: center;
+    color: white;
+    padding-top: -20%;
+}
+.col-sm-12-arrow{
+    text-align: center;
+    color: white;
+    margin-top: -20%;
+}
+.col-sm-12-button{
+    padding-left: 45%;
+    margin-top: -25%;
+    color: white;
+}
+
+.col-sm-12-button button{
+    background-color: red;
+    display: inline-block;
+    pading:20px 20px;
+}
+.container-services{
+    text-align: center;
+}
+.line{
+    height: 3px;
+    background-color: red;
+}
+.container-service {
+    text-align: center;
+    padding-top: 2%;
+}
+
+span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.outer-line {
+    width: 5%;
+    border-bottom: 1px solid ;
+}
