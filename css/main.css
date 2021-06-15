@@ -71,16 +71,14 @@
     color: white;
     margin-top: -20%;
 }
-.col-sm-12-button{
-    padding-left: 45%;
-    margin-top: -25%;
-    color: white;
-}
-
 .col-sm-12-button button{
     background-color: red;
-    display: inline-block;
-    pading:20px 20px;
+    height: 45px;
+    width: 160px;
+    font-size: 17px;
+    font-family: padmaa-Bold.1.1;
+    margin-left: 42%;
+    margin-top: -40%;
 }
 .container-services{
     text-align: center;
@@ -127,13 +125,23 @@ span {
 }
 .col-sm-6 button{
     background-color: red;
+    height: 45px;
+    width: 160px;
+    font-size: 17px;
+    font-family: padmaa-Bold.1.1;
 }
 .col-sm-6-are button{
     background-color: transparent;
-    margin-left: -40%;
+    margin-left: -20%;
+    height: 45px;
+    width: 160px;
+    border: 1px solid red;
+    font-size: 17px;
+    font-family: padmaa-Bold.1.1;
+
 }
 .col-sm-6 button{
-    margin-left: 80%;
+    margin-left: 60%;
 }
 .container-our-team{
     text-align: center;
@@ -217,6 +225,9 @@ span {
     width: 100%;
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 3%;
+    font-size: 17px;
+    color: #6c757d;
 }
 .container-footer{
     width: 100%;
@@ -224,6 +235,8 @@ span {
     padding-top: 2%;
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 1%;
+    color: #6c757d;
 }
 .col-sm-6-2 {
     text-align: right;
@@ -231,3 +244,7 @@ span {
 .container-footer .col-sm-6 p{
     float: right;
 }
+.col-sm-6-1 p{
+    float: left;
+}
+
